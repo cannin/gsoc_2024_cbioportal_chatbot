@@ -13,9 +13,9 @@ author: Xinling Wang
 ## Tasks
 
 1. Make 5-10 slide deck on Google Slides with your proposal
-    Status: **complete**
-    Link: [chatbot for cBioportal](https://docs.google.com/document/d/1UM3HQPUtV1lB4SfCXWrFeJr-10zQKsEnOMXpYtk_1Mk/edit)
-	Comment: fix the bug that cannot answer questions using loaded docs which occurred during the interview. Also ask new questions from FAQ.md and use it as an example in slides.
+    - Status: **complete**
+    - Link: [chatbot for cBioportal](https://docs.google.com/document/d/1UM3HQPUtV1lB4SfCXWrFeJr-10zQKsEnOMXpYtk_1Mk/edit)
+	- Comment: fix the bug that cannot answer questions using loaded docs which occurred during the interview. Also ask new questions from FAQ.md and use it as an example in slides.
 	Question: unsure about presentation time
 
 
