@@ -1,13 +1,7 @@
-# Template for Project Reports
+# Chatbot trained on documentation site and conversations
 
-Review and edit 
+## Project Goal
+This project aims to develop and integrate an AI chatbot into a main website. By leveraging documentation and insights from Google group discussions, this chatbot will provide quick, context-aware responses and summarizations, thereby streamlining user experiences and eliminating the need for manual searches. 
 
-* _config.yml
-* contributors.csv 
-* index.md 
-* Example reports in _reports
-* Edit this README with a short project description
-
-# Template Source
-
-https://github.com/cannin/project_report_template
+## Project link
+-[link](https://summerofcode.withgoogle.com/programs/2024/projects/5PYvMkWW) 
