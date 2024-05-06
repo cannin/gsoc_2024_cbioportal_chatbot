@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: GNN Based Drug Response Prediction GSoC 2022
+title: Chatbot trained on documentation site and conversations Gsoc2024
 collections:
   reports:
     output: true

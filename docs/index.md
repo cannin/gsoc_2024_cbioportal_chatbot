@@ -1,4 +1,4 @@
-### GSoC22 Reports
+### GSoC24 Reports
 <table>
   {% for post in site.reports reversed %}
     <tr>
