@@ -16,7 +16,7 @@ author: Xinling Wang
     - Status: **complete**
     - Link: [chatbot for cBioportal](https://docs.google.com/presentation/d/1f-ez5ttZB6mKGu9I7al96eyD3V1_FlILLHQMiX_7nho/edit?usp=sharing)
 	- Comment: fix the bug that cannot answer questions using loaded docs which occurred during the interview. Also ask new questions from FAQ.md and use it as an example in slides.
-	Question: unsure about presentation time
+	- Question: unsure about presentation time
 
 
 2.  Contact Favour (after @cannin) emails
@@ -47,5 +47,5 @@ author: Xinling Wang
 ## Next Step
 
   - Get more familiar with cBioportal Community and NIH
-  - prepare for presentation and questions for users 
+  - Prepare for presentation and questions for users 
 
