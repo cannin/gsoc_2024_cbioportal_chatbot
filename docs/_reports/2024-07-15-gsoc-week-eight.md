@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Seven | Welcome GSoC"
+title:  "Week Eight | Welcome GSoC"
 tags: gsoc
 author: Xinling Wang
 ---
